@@ -4,7 +4,13 @@
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
 	"image": "mcr.microsoft.com/devcontainers/python:0-3.11",
-	"onCreateCommand": "pip3 install --user -r requirements.txt",
+	    "features": {
+        "ghcr.io/devcontainers/features/sshd:1": {
+        "version": "latest"
+    }
+    },
+
+    "onCreateCommand": "pip3 install --user -r requirements.txt",
 	"customizations": {
 	  "vscode": {
 		"extensions": [
