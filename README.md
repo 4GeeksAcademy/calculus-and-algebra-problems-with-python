@@ -1,5 +1,5 @@
 <!--hide-->
-# Calculus and algebra in Python - Step by step guide
+# Calculus and linear algebra in Python - Step by step guide
 <!--endhide-->
 
 - Complete the problems using calculus, algebra and Python.
