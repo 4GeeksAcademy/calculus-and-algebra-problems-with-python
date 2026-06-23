@@ -45,7 +45,7 @@ Sigue las siguientes instrucciones:
 
 Una vez que completes los ejercicios, sigue estos pasos para enviarlos correctamente:  
 
-1. **Guarda y confirma los cambios** en tu repositorio local:  
+1. **Guardar y confirmar los cambios** en tu repositorio local:  
 
    ```sh
    git add .
