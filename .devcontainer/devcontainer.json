@@ -16,7 +16,7 @@
 		"extensions": [
 		  "ms-toolsai.jupyter",
 		  "ms-python.python"
-		]
+		, "4geeks.4geeks-student"]
 	  }
 	}
 
