@@ -24,7 +24,7 @@ Sigue las siguientes instrucciones:
 2. Antes de iniciar, asegúrate de seleccionar el **Kernel adecuado**. 
 
     - Al abrir el notebook, aparecerá un mensaje en la parte superior indicando **"Select Kernel"**.  
-    - Haz clic en **"Select Kernel"** (como se muestra en la imagen).       
+    - Haz clic en **"select Kernel"** (como se muestra en la imagen).       
 
 
 ![image-kernel](https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/assets/image-kernel.png?raw=true)
