@@ -41,7 +41,7 @@ Sigue las siguientes instrucciones:
 > Solución: https://github.com/4GeeksAcademy/calculus-and-algebra-problems-with-python/blob/main/notebook/solutions.ipynb
 
 
-## 🚛 Cómo entregar este proyecto
+## 🚛 ¿Cómo entregar este proyecto?
 
 Una vez que completes los ejercicios, sigue estos pasos para enviarlos correctamente:  
 
